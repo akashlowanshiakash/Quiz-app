@@ -1,0 +1,19 @@
+.title{
+    text-transform: uppercase;
+    font-size: 3vw;
+    font-family: "Montserrat",sans-serif;
+    cursor: pointer;
+    background: -webkit-linear-gradient(#df9a9a, #333);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.divider{
+    margin: 10px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}

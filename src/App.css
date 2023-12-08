@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
+.app{
+    height: 98.5vh;
+    opacity: .8;
+    border: 8px solid #39445a93;
+    margin: 5px;
+    padding: 5px;
+    background-image: url("https://img.freepik.com/premium-photo/three-question-marks-background-three-question-mark-symbol-blue-background-answer-faq-information-communication-brainstorming-concepts-3d-illustration_256259-3723.jpg");
+    background-position: center;
+    background-size: cover;
+}
+::-webkit-scrollbar{
+    width: 5px;
+    border-radius: 20px;
+}
